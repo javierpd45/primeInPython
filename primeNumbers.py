@@ -9,3 +9,5 @@ for i in range(2, 101):
     
     if isPrime == True or i == pNumbers.get(i):
         print(i, end=" ")
+        
+print("\n\nEnd of the program.")
